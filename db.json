@@ -4,28 +4,28 @@
       "id": 1,
       "title": "Post 1",
       "categories":["travel", "music"],
-      "date": "Aug 13, 2019",
+      "date": "Wed Aug 4 2019",
       "content": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
     },
    {
       "id": 2,
       "title": "Post 2",
       "categories":["life", "countries"],
-      "date": "Aug 10, 2019",
+      "date": "Wed Aug 8 2019",
       "content": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla"
     },
     {
       "id": 3,
       "title": "Post 3",
       "categories":["travel", "sports", "adventure"],
-      "date": "Aug 5, 2019",
+      "date": "Wed Aug 14 2019",
       "content": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae"
     },
     {
       "id": 4,
       "title": "Post 4",
       "categories":["adventure"],
-      "date": "Aug 5, 2019",
+      "date": "Wed Aug 14 2019",
       "content": "dignissimos aperiam dolorem qui eum facilis quibusdam animi sint suscipit qui sint possimus cum quaerat magni maiores excepturi ipsam ut commodi dolor voluptatum modi aut vitae"
     }
   ],
